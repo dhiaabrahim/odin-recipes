@@ -1,0 +1,21 @@
+* {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    font-size: 24px;
+    color: red;
+}
+
+h2 {
+    color: brown;
+}
+
+p, li {
+    color: yellow;
+}
